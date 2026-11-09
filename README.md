@@ -7,7 +7,7 @@ Pretty-print, minify, sort and validate JSON from a file or stdin — zero-depen
 Requires Python 3.8+. No third-party packages.
 
 ```bash
-git clone https://github.com/mrzhoucx/json-format.git
+git clone https://github.com/heyzcx/json-format.git
 cd json-format
 chmod +x json_format.py
 ```
